@@ -17,7 +17,7 @@ A JavaScript-based tool for generating and managing unique keys, designed for ap
 
 1. **Clone or Download** this repository:
    ```bash
-   git clone https://github.com/yourusername/keyGenerator.git
+   git clone https://github.com/EnesKeremAYDIN/keyGenerator.git
    cd keyGenerator
    ```
 
