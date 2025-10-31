@@ -1,6 +1,6 @@
 # Key Generator
 
-A JavaScript-based tool for generating and managing unique keys, designed for applications that require unique identifiers or security tokens.
+JavaScript-based tool for generating and managing unique keys, designed for applications that require unique identifiers or security tokens.
 
 ## Features
 
